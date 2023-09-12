@@ -74,21 +74,21 @@ function HomeScreen() {
           <Splide options={{ autoplay: true, rewind: true, arrows: false }}>
             <SplideSlide>
               <img
-                src="/Images/web/elephants.jpeg"
+                src="/images/web/elephants.jpeg"
                 className="h-[750px] object-cover w-full xl:h-[650px]"
                 alt=""
               />
             </SplideSlide>
             <SplideSlide>
               <img
-                src="/Images/web/lake-mburo.jpg"
+                src="/images/web/lake-mburo.jpg"
                 className="h-[750px] object-cover w-full xl:h-[650px]"
                 alt=""
               />
             </SplideSlide>
             <SplideSlide>
               <img
-                src="/Images/web/giraffe.jpg"
+                src="/images/web/giraffe.jpg"
                 className="h-[750px] object-cover w-full xl:h-[650px]"
                 alt=""
               />
